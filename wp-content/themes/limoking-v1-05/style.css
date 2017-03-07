@@ -1486,7 +1486,7 @@ margin-top: 2px; font-family: FontAwesome;
 ul.limoking-twitter-widget li .limoking-twitter{ margin-bottom: 20px; overflow: hidden; }
 
 /*--- recent port 2 widget ---*/
-.limoking-recent-port2-widget .recent-port-widget-thumbnail { max-width: 70px; float: left;
+.limoking-recent-port2-widget .recent-port-widget-thumbnail { max-width: 150px; float: left;
 margin-right: 15px; margin-bottom: 15px; }
 .footer-wrapper .limoking-recent-port2-widget .recent-port-widget-thumbnail { max-width: 70px; }
 
