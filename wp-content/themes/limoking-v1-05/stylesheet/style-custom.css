@@ -22,10 +22,10 @@ h6{ font-size: 16px; }
 .top-navigation-wrapper{ color: #ffffff; }
 .top-navigation-wrapper a{ color: #f2f2f2; }
 .limoking-header-inner, .limoking-header-wrapper.header-style-3-wrapper, .limoking-header-wrapper.header-style-2-wrapper{ background-color: #ffffff; }.limoking-header-wrapper.header-style-5-wrapper .limoking-header-inner{ background-color: rgba(255, 255, 255, 0.75); }@media only screen and (max-width: 1100px) { .limoking-header-wrapper.header-style-5-wrapper .limoking-header-inner{ background-color: #ffffff; } }
-.limoking-main-menu > li > a, .limoking-cart-item-count{ color: #e21759; }
+.limoking-main-menu > li > a, .limoking-cart-item-count{ color: #1e090e; }
 .limoking-header-wrapper.header-style-3-wrapper .limoking-header-inner, .limoking-header-wrapper.header-style-2-wrapper .limoking-header-inner{ background-color: #ffffff; background-color: rgba(255, 255, 255, 0.75); }
 .limoking-main-menu > li:hover > a, .limoking-main-menu > li.current-menu-item > a, .limoking-main-menu > li.current-menu-ancestor > a{ color: #e21759; opacity: 1; filter: alpha(opacity=100); }
-#limoking-navigation-gimmick{ border-bottom-color: #e21759; }
+#limoking-navigation-gimmick{ border-bottom-color: #1e090e; }
 .limoking-top-woocommerce-inner, .limoking-menu-search{ background: #2b2b2b; background: rgba(43, 43, 43, 0.8); }
 .limoking-top-woocommerce, .limoking-top-woocommerce-inner > a, .limoking-menu-search input[type="text"]{ color: #ffffff; }
 .limoking-main-menu > .limoking-normal-menu .sub-menu, .limoking-main-menu > .limoking-mega-menu .sf-mega{ border-top-color: #1c1c1c; }
